@@ -1,0 +1,6 @@
+{
+  "name": "SuperBrain EA",
+  "description": "Kendali EA Anda dari mana saja. Platform kontrol trading MetaTrader 5 untuk WorldClass SuperBrain Scalper.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
